@@ -1,0 +1,56 @@
+@font-face {
+    font-family: bet;
+    src: url(../PASTA/UglyCut.otf);
+}
+body{
+background-image: url(https://thorbet.com.br/wp-content/uploads/2024/09/img_1.png);
+}
+form fieldset{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    margin: auto;
+    padding: 30px;
+    gap: 5px;
+    text-align: center;
+
+}
+H1{
+    color: #4682B4;
+    text-align: center;
+    font-size: 80px;
+    font-family:bet ;
+    
+}
+h2{
+   color: #4682B4;
+   text-align: center;
+   font-size: 30px;
+   font-family: bet;
+}
+form fieldset input[type="submit"]{
+    width: 15vw;
+    height: 5vh;
+    margin: auto;
+}
+
+
+form fieldset input[type="submit"]:hover{
+        background-color: #00008B;
+    cursor: pointer;
+
+    }   
+
+form fieldset legend{
+    color: #191970;
+    font-size: 30px;
+}
+fieldset{
+    color: #6e6eda;
+} form fieldset input{
+        color: #6e6eda;
+    }
+form fieldset input select{
+    
+}
