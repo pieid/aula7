@@ -39,7 +39,7 @@ form fieldset input[type="submit"]{
 form fieldset input[type="submit"]:hover{
         background-color: #00008B;
     cursor: pointer;
-   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
 
     }   
 
@@ -52,5 +52,5 @@ fieldset{
     font-family: Arial, Helvetica, sans-serif;
 } form fieldset input{
         color: #33339d;
-        font-family: Georgia, 'Times New Roman', Times, serif;
+       
     }
