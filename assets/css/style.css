@@ -6,7 +6,7 @@ body{
 background-image: url(https://thorbet.com.br/wp-content/uploads/2024/09/img_1.png);
 }
 form fieldset{
-    background-color: rgb(27, 177, 232);
+    background-color: lightgray;
     display: flex;
     flex-direction: column;
     width: 50vw;
